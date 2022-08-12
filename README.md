@@ -47,4 +47,4 @@ Observação 2: **O design da página não é critério avaliativo, mas caso o c
 
 O desafio consiste em criar um programa onde uma pessoa possa escrever cartas e saber se elas foram recebidas e quanto foram recebidas. O programa deve funcionar seguindo o seguinte diagrama UML:
 
-![Diagrama UML do Desafio 3](https://raw.githubusercontent.com/cloudgedti/teste_de_conhecimento/main/diagrama_uml_d3.png)
+![Diagrama UML do Desafio 3](https://raw.githubusercontent.com/cloudgedti/teste_de_conhecimento/main/diagrama_uml_desafio_3.png)
