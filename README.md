@@ -48,3 +48,9 @@ Observação 2: **O design da página não é critério avaliativo, mas caso o c
 O desafio consiste em criar um programa onde uma pessoa possa escrever cartas e saber se elas foram recebidas e quanto foram recebidas. O programa deve funcionar seguindo o seguinte diagrama UML:
 
 ![Diagrama UML do Desafio 3](https://raw.githubusercontent.com/cloudgedti/teste_de_conhecimento/main/diagrama_uml_desafio_3.png)
+
+### Submição
+
+Os desafios devem ser colocados em um repositório e cada desafio deve ser colocado em uma pasta, por exemplo: "desafio_1", "desafio_2" e "desafio_3". O repositório com os desafios pode ser um Fork deste repositório ou não, o candidato pode criar o repositório como achar melhor.
+
+Observação: **Os desafios devem ser enviados obrigatoriamente em um repositório no GitHub.**
