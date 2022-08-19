@@ -6,7 +6,7 @@ Critérios de avaliação:
 
 * Entendimento do problema
 * Solução do problema
-* Ligibilidade
+* Legibilidade
 * Otimização
 * Organização
 
